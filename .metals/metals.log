@@ -32285,3 +32285,7 @@ Starting thread that pumps server stdout and redirects it to the client stdout..
 [0m2021.11.30 16:45:17 WARN  unsupported Scala 2.11.8[0m
 Nov 30, 2021 4:45:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+[0m2021.11.30 19:22:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 15:45:03 WARN  unsupported Scala 2.11.8[0m
+Dec 01, 2021 3:46:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
