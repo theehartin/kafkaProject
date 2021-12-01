@@ -1,0 +1,9 @@
+
+
+Producer-
+Identify Key from Producer and Send to Appropriate Topic
+
+Query:
+Consume Topic into DF and perform querie's
+NOTE: You cannot stream a kafka topic and query the data without streaming it out into 
+another topic. That is why i'm doing a static consumption
