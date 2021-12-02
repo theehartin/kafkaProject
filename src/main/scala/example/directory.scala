@@ -21,7 +21,7 @@ object KafkaConsumerSubscribeApp {
 
     val consumer = new MyConsumer
     val producer = new MyProducer
-    val test = new Test12
+    //val test = new Test12
 
   
 
@@ -39,7 +39,7 @@ object KafkaConsumerSubscribeApp {
         case "2" => consumer.csv()
         case "3" => producer.produce()
         case "4" => consumer.staticConsumer()
-        case "5" => test.test()
+        //case "5" => test.test()
       }//End of 'choice match'
 
   }//End of Main
